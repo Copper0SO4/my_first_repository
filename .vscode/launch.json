@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/copper0so4/Documents/git_repo/my_first_repository",
-      "program": "/home/copper0so4/Documents/git_repo/my_first_repository/build/Debug/outDebug",
+      "program": "/home/copper0so4/Documents/git_repo/my_first_repository/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
